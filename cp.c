@@ -6,7 +6,7 @@ typedef uint8_t BYTE;
 int main(int argc, char *argv[])
 {
     if (argc != 3)
-    {
+    { 
         printf("Usage: ./copy source destination\n");
         return 1;
     }

@@ -35,32 +35,9 @@ int main(int argc, char *argv[])
     BYTE header[HEADER_SIZE];
     TWO_BYTE sample;
     
-    /*
-    if (fread(&header, sizeof(BYTE), HEADER_SIZE, input) != HEADER_SIZE)
-    {
-        fprintf(stderr, "Error reading header.\n");
-        fclose(input);
-        fclose(output);
-        return 1;
-    }
-    fwrite(&header, sizeof(BYTE), HEADER_SIZE, output);
-    */
 
     fread(&header, sizeof(BYTE), HEADER_SIZE, input);
     fwrite(&header, sizeof(BYTE), HEADER_SIZE, output);
-
-    
-    /*
-    while(fread(&sample, sizeof(TWO_BYTE), 1, input) == 1)
-    {
-        int temp = (int)(sample * factor);
-        if (temp > 32767) temp = 32767;
-        if (temp < -32768) temp = -32768;
-        sample = (TWO_BYTE) temp;
-        
-        fwrite(&sample, sizeof(TWO_BYTE), 1, output);  
-    }
-    */
 
     while (fread(&sample, sizeof(sample), 1, input))
     {
