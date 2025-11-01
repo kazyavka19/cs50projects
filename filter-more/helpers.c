@@ -55,10 +55,8 @@ void reflect(int height, int width, RGBTRIPLE image[height][width])
     for (int i = 0; i < height; i++)
     {
          RGBTRIPLE *row = image[i];
-     reverse_array(row, width);
+         reverse_array(row, width);
     }
-
-    
 }
 
 // Blur image
