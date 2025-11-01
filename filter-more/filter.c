@@ -6,6 +6,7 @@
 
 int main(int argc, char *argv[])
 {
+    printf("Welcome to Super Sayian Filter twin \n\n");
     // Define allowable filters
     char *filters = "begr";
 
