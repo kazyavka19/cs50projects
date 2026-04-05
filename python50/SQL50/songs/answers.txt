@@ -1,0 +1,379 @@
+1) 
+God's Plan
+SAD!
+rockstar (feat. 21 Savage)
+Psycho (feat. Ty Dolla $ign)
+In My Feelings
+Better Now
+I Like It
+One Kiss (with Dua Lipa)
+IDGAF
+FRIENDS
+Havana
+Lucid Dreams
+Nice For What
+Girls Like You (feat. Cardi B)
+The Middle
+All The Stars (with SZA)
+no tears left to cry
+X
+Moonlight
+Look Alive (feat. Drake)
+These Days (feat. Jess Glynne, Macklemore & Dan Caplen)
+Te Bote - Remix
+Mine
+Youngblood
+New Rules
+Shape of You
+Love Lies (with Normani)
+Meant to Be (feat. Florida Georgia Line)
+Jocelyn Flores
+Perfect
+Taste (feat. Offset)
+Solo (feat. Demi Lovato)
+I Fall Apart
+Nevermind
+Echame La Culpa
+Eastside (with Halsey & Khalid)
+Never Be the Same
+Wolves
+changes
+In My Mind
+River (feat. Ed Sheeran)
+Dura
+SICKO MODE
+Thunder
+Me Niego
+Jackie Chan
+Finesse (Remix) [feat. Cardi B]
+Back To You - From 13 Reasons Why
+Let You Down
+Call Out My Name
+Ric Flair Drip (& Metro Boomin)
+Happier
+Too Good At Goodbyes
+Freaky Friday (feat. Chris Brown)
+Believer
+FEFE (feat. Nicki Minaj & Murda Beatz)
+Rise
+Body (feat. brando)
+XO TOUR Llif3
+Sin Pijama
+2002
+Nonstop
+Fuck Love (feat. Trippie Redd)
+In My Blood
+Silence
+God is a woman
+Dejala que vuelva (feat. Manuel Turizo)
+Flames
+What Lovers Do
+Taki Taki (with Selena Gomez, Ozuna & Cardi B)
+Let Me Go (with Alesso, Florida Georgia Line & watt)
+Feel It Still
+Pray For Me (with Kendrick Lamar)
+Walk It Talk It
+Him & I (with Halsey)
+Candy Paint
+Congratulations
+1, 2, 3 (feat. Jason Derulo & De La Ghetto)
+Criminal
+Plug Walk
+lovely (with Khalid)
+Stir Fry
+HUMBLE.
+Vaina Loca
+Perfect Duet (Ed Sheeran & Beyonc?)
+Corazon (feat. Nego do Borel)
+Young Dumb & Broke
+Siguelo Bailando
+Downtown
+Bella
+Promises (with Sam Smith)
+Yes Indeed
+I Like Me Better
+This Is Me
+Everybody Dies In Their Nightmares
+Rewrite The Stars
+I Miss You (feat. Julia Michaels)
+No Brainer
+Dusk Till Dawn - Radio Edit
+Be Alright
+
+2)
+God's Plan
+SAD!
+rockstar (feat. 21 Savage)
+Psycho (feat. Ty Dolla $ign)
+In My Feelings
+Better Now
+I Like It
+One Kiss (with Dua Lipa)
+IDGAF
+FRIENDS
+Havana
+Lucid Dreams
+Nice For What
+Girls Like You (feat. Cardi B)
+The Middle
+All The Stars (with SZA)
+no tears left to cry
+X
+Moonlight
+Look Alive (feat. Drake)
+These Days (feat. Jess Glynne, Macklemore & Dan Caplen)
+Te Bote - Remix
+Mine
+Youngblood
+New Rules
+Shape of You
+Love Lies (with Normani)
+Meant to Be (feat. Florida Georgia Line)
+Jocelyn Flores
+Perfect
+Taste (feat. Offset)
+Solo (feat. Demi Lovato)
+I Fall Apart
+Nevermind
+Echame La Culpa
+Eastside (with Halsey & Khalid)
+Never Be the Same
+Wolves
+changes
+In My Mind
+River (feat. Ed Sheeran)
+Dura
+SICKO MODE
+Thunder
+Me Niego
+Jackie Chan
+Finesse (Remix) [feat. Cardi B]
+Back To You - From 13 Reasons Why
+Let You Down
+Call Out My Name
+Ric Flair Drip (& Metro Boomin)
+Happier
+Too Good At Goodbyes
+Freaky Friday (feat. Chris Brown)
+Believer
+FEFE (feat. Nicki Minaj & Murda Beatz)
+Rise
+Body (feat. brando)
+XO TOUR Llif3
+Sin Pijama
+2002
+Nonstop
+Fuck Love (feat. Trippie Redd)
+In My Blood
+Silence
+God is a woman
+Dejala que vuelva (feat. Manuel Turizo)
+Flames
+What Lovers Do
+Taki Taki (with Selena Gomez, Ozuna & Cardi B)
+Let Me Go (with Alesso, Florida Georgia Line & watt)
+Feel It Still
+Pray For Me (with Kendrick Lamar)
+Walk It Talk It
+Him & I (with Halsey)
+Candy Paint
+Congratulations
+1, 2, 3 (feat. Jason Derulo & De La Ghetto)
+Criminal
+Plug Walk
+lovely (with Khalid)
+Stir Fry
+HUMBLE.
+Vaina Loca
+Perfect Duet (Ed Sheeran & Beyonc?)
+Corazon (feat. Nego do Borel)
+Young Dumb & Broke
+Siguelo Bailando
+Downtown
+Bella
+Promises (with Sam Smith)
+Yes Indeed
+I Like Me Better
+This Is Me
+Everybody Dies In Their Nightmares
+Rewrite The Stars
+I Miss You (feat. Julia Michaels)
+No Brainer
+Dusk Till Dawn - Radio Edit
+Be Alright
+sqlite> SELECT name FROM songs ORDER BY tempo DESC;
+Corazon (feat. Nego do Borel)
+This Is Me
+Stir Fry
+X
+Dusk Till Dawn - Radio Edit
+Candy Paint
+Dejala que vuelva (feat. Manuel Turizo)
+Thunder
+Downtown
+rockstar (feat. 21 Savage)
+XO TOUR Llif3
+SICKO MODE
+Nonstop
+Meant to Be (feat. Florida Georgia Line)
+HUMBLE.
+Let You Down
+Walk It Talk It
+God is a woman
+Better Now
+Love Lies (with Normani)
+I Fall Apart
+Mine
+Silence
+Psycho (feat. Ty Dolla $ign)
+In My Blood
+Look Alive (feat. Drake)
+Young Dumb & Broke
+I Like It
+No Brainer
+Call Out My Name
+Jocelyn Flores
+Freaky Friday (feat. Chris Brown)
+Fuck Love (feat. Trippie Redd)
+Everybody Dies In Their Nightmares
+Never Be the Same
+Moonlight
+Jackie Chan
+Be Alright
+FEFE (feat. Nicki Minaj & Murda Beatz)
+In My Mind
+Rewrite The Stars
+Girls Like You (feat. Cardi B)
+Believer
+Wolves
+One Kiss (with Dua Lipa)
+Congratulations
+Promises (with Sam Smith)
+no tears left to cry
+Body (feat. brando)
+Youngblood
+Yes Indeed
+New Rules
+lovely (with Khalid)
+What Lovers Do
+The Middle
+Rise
+Finesse (Remix) [feat. Cardi B]
+I Miss You (feat. Julia Michaels)
+Solo (feat. Demi Lovato)
+Havana
+Let Me Go (with Alesso, Florida Georgia Line & watt)
+Back To You - From 13 Reasons Why
+Pray For Me (with Kendrick Lamar)
+Happier
+Ric Flair Drip (& Metro Boomin)
+Nevermind
+Siguelo Bailando
+Taste (feat. Offset)
+IDGAF
+All The Stars (with SZA)
+Te Bote - Remix
+2002
+Echame La Culpa
+Shape of You
+Taki Taki (with Selena Gomez, Ozuna & Cardi B)
+FRIENDS
+Perfect
+Dura
+Perfect Duet (Ed Sheeran & Beyonc?)
+Plug Walk
+1, 2, 3 (feat. Jason Derulo & De La Ghetto)
+Me Niego
+Bella
+Sin Pijama
+Vaina Loca
+Flames
+Nice For What
+These Days (feat. Jess Glynne, Macklemore & Dan Caplen)
+I Like Me Better
+Too Good At Goodbyes
+In My Feelings
+River (feat. Ed Sheeran)
+Eastside (with Halsey & Khalid)
+Him & I (with Halsey)
+Lucid Dreams
+Criminal
+Feel It Still
+God's Plan
+SAD!
+changes
+
+3)
+Te Bote - Remix
+SICKO MODE
+Walk It Talk It
+Him & I (with Halsey)
+Perfect
+
+4)
+Dura
+Me Niego
+Feel It Still
+1, 2, 3 (feat. Jason Derulo & De La Ghetto)
+Criminal
+
+5)
+0.65906
+
+6)
+rockstar (feat. 21 Savage)
+Psycho (feat. Ty Dolla $ign)
+Better Now
+I Fall Apart
+Candy Paint
+Congratulations
+
+7)
+0.599
+
+8)
+rockstar (feat. 21 Savage)
+Psycho (feat. Ty Dolla $ign)
+Girls Like You (feat. Cardi B)
+Look Alive (feat. Drake)
+These Days (feat. Jess Glynne, Macklemore & Dan Caplen)
+Meant to Be (feat. Florida Georgia Line)
+Taste (feat. Offset)
+Solo (feat. Demi Lovato)
+River (feat. Ed Sheeran)
+Finesse (Remix) [feat. Cardi B]
+Freaky Friday (feat. Chris Brown)
+FEFE (feat. Nicki Minaj & Murda Beatz)
+Body (feat. brando)
+Fuck Love (feat. Trippie Redd)
+Dejala que vuelva (feat. Manuel Turizo)
+1, 2, 3 (feat. Jason Derulo & De La Ghetto)
+Corazon (feat. Nego do Borel)
+I Miss You (feat. Julia Michaels)
+
+
+
+
+Spotify Wrapped)
+
+i would characterize audio aura as the avarage of the avarages of the three numeric song features:
+danceability, energy and valence. so if the avarage is > 0.5, then the user is a sigma aura farmer
+SELECT
+    (AVG(danceability) + AVG(energy) + AVG(valence)) / 3.0 AS overall_average
+FROM (
+    SELECT *
+    FROM songs
+    LIMIT 100
+);
+
+
+but that calculation is not super duper perfect
+since top 100 songs do not fully reflect the persons aura since the user probably listens to hunders of songs
+that do also shape the "aura".
+
+in addition to that the user might be a sigma by night and a cutie patuti by day, and by computing the avarege the data might
+show that the user is a sub 5 normie which is simply not true because the cutie patuti does not cancel out the sigma mogger
+
+so i offer a better solution, making a free app that actually steals all of the users data, 
+which would include listening to them without their consent(for authenticity ofc).
+using that data the app could more accurately depict wether the user is a sigma or a sub 5 
